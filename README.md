@@ -1,3 +1,4 @@
+[![clawdboard](https://clawdboard.ai/api/badge/jim540)](https://clawdboard.ai/user/jim540)
 ## Hi there 👋
 
 <!--
